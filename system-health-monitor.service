@@ -1,0 +1,13 @@
+[Unit]
+Description=System Health Monitor Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/system-health-monitor/monitor.sh --report
+User=root
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

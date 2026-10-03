@@ -1,0 +1,13 @@
+2026-10-04 00:27:18 [INFO] Monitor started with action: all
+2026-10-04 00:27:47 [INFO] Monitor started with action: watch
+2026-10-04 00:28:23 [INFO] Monitor started with action: json
+2026-10-04 00:28:40 [INFO] Monitor started with action: csv
+2026-10-04 00:28:51 [INFO] Monitor started with action: report
+2026-10-04 00:28:52 [INFO] Reports generated in ./reports
+2026-10-04 00:29:32 [ERROR] Unknown option: --network.sh
+2026-10-04 00:29:57 [INFO] Monitor started with action: cpu
+2026-10-04 00:29:57 [INFO] Monitor started with action: memory
+2026-10-04 00:29:58 [INFO] Monitor started with action: disk
+2026-10-04 00:29:58 [INFO] Monitor started with action: network
+2026-10-04 00:29:58 [INFO] Monitor started with action: processes
+2026-10-04 00:29:58 [INFO] Monitor started with action: services

@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-10-04T00:28:52+03:00",
+  "hostname": "parrot",
+  "cpu": {
+    "usage_percent": 6.9,
+    "load_average": "1.40",
+    "cores": 12
+  },
+  "memory": {
+    "total_mb": 15253,
+    "used_mb": 3432,
+    "usage_percent": 22.5
+  },
+  "disk": [{"mount":"/sys/firmware/efi/efivars","usage_percent":50,"size":"128K","used":"61K"},{"mount":"/","usage_percent":37,"size":"98G","used":"35G"},{"mount":"/home","usage_percent":37,"size":"98G","used":"35G"},{"mount":"/boot/efi","usage_percent":18,"size":"196M","used":"35M"}],
+  "network": [{"interface":"enp2s0","state":"down","ip":"","rx_bytes":0,"tx_bytes":0},{"interface":"wlp3s0","state":"up","ip":"192.168.100.22/24","rx_bytes":158821692,"tx_bytes":5252611}],
+  "services": {
+    "failed": 3
+  },
+  "status": "HEALTHY"
+}

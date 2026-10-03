@@ -1,0 +1,38 @@
+[1m╔══════════════════════════════════════════════════════╗[0m
+[1m║             SYSTEM HEALTH MONITOR v1.0              ║[0m
+[1m╚══════════════════════════════════════════════════════╝[0m
+
+[0;36mHost       :[0m parrot
+[0;36mKernel     :[0m 7.0.9+parrot7-amd64
+[0;36mUptime     :[0m 18 minutes
+
+[1mCPU[0m
+Usage      : 6.9%
+Load       : 1.40
+Temp       : 45.0°C
+
+[1mMEMORY[0m
+RAM        : 3428 / 15253 MB
+Usage      : 22.5%
+
+[1mDISK[0m
+/sys/firmware/efi/efivars : 50% (61K / 128K)
+/          : 37% (35G / 98G)
+/home      : 37% (35G / 98G)
+/boot/efi  : 18% (35M / 196M)
+
+[1mNETWORK[0m
+Interface  : enp2s0 (down) - 
+RX/TX      : 0 B / 0 B
+Interface  : wlp3s0 (up) - 192.168.100.22/24
+RX/TX      : 151.46 MB / 5.01 MB
+
+[1mPROCESSES[0m
+Running    : 4
+Top CPU    : Isolated 0.0%
+Top RAM    : firefox-esr 740.0 MB
+
+[1mSERVICES[0m
+Failed     : 3
+
+[1mSTATUS: [0;32mHEALTHY[0m[0m

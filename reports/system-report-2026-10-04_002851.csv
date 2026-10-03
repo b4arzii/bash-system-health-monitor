@@ -1,0 +1,2 @@
+timestamp,hostname,cpu_usage,mem_usage,disk_usage_max,status
+2026-10-04T00:28:52+03:00,parrot,6.9,22.5,50,HEALTHY
